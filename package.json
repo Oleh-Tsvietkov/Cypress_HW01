@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Oleh-Tsvietkov/Cypress_HW01#readme",
   "dependencies": {
-    "cypress": "^9.0.0"
+    "cypress": "^9.0.0",
+    "faker": "^5.5.3"
   }
 }
